@@ -27,5 +27,6 @@ This project helped me strengthen my understanding of:
 * Recursive Algorithms
 * Artificial Intelligence concepts in browser-based applications
 
-This project demonstrates my ability to build interactive front-end applications with clean UI design and algorithmic problem-solving.<img width="1553" height="940" alt="image" src="https://github.com/user-attachments/assets/1bd10e69-3e9c-4fec-a7c9-a7c3b548d4d1" />
+This project demonstrates my ability to build interactive front-end applications with clean UI design and algorithmic problem-solving.<img width="1553" height="940" alt="image" src="https://github.com/user-attachments/assets/1bd10e69-3e9c-4fec-a7c9-a7c3b548d4d1" />![Uploading image.png…]()
+
 
